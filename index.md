@@ -4,7 +4,7 @@
 
 [复杂的GUI](complexity_of_GUI.md)
 
-[Hexing the technical interview前置知识笔记](prerequisites-of-hexing.md)
+[旁观一场16进制风格技术面试](prerequisites-of-hexing.md)
 
 [haskell缺陷其一](BadPiecesOfHs-1.md)
 
