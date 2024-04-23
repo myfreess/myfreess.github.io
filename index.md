@@ -1,5 +1,7 @@
 [从`$`开始的类型过山车](Levity-Polymorphism.md)
 
+[使用续延传递模拟GADT](PhantomType.md)
+
 [Monad是一种Context Sensitive的CodeGen - 用State Monad实现x86汇编](ASMMonad/Monadic-Assembly.md)
 
 [复杂的GUI](complexity_of_GUI.md)
