@@ -28,4 +28,4 @@
 
 [草稿 - 当我们讨论中文编程语言时, 我们在说什么?](CP_CPL.md)
 
-[草稿 - 让人头痛的C语言](c_is_a_real_headache.md)
+[草稿 - 让人头痛的C语言](C_is_a_real_headache.md)
