@@ -2,7 +2,7 @@
 
 [使用续延传递模拟GADT](PhantomType.md)
 
-[Monad是一种Context Sensitive的CodeGen - 用State Monad实现x86汇编](MonadicAssembly.pdf)
+[Monad是一种Context Sensitive的CodeGen - 用State Monad实现x86汇编](Monadic-Assembly.md)
 
 [复杂的GUI](complexity_of_GUI.md)
 
