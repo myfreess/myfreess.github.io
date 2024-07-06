@@ -2,7 +2,7 @@
 
 [使用续延传递模拟GADT](PhantomType.md)
 
-[Monad是一种Context Sensitive的CodeGen - 用State Monad实现x86汇编](ASMMonad/Monadic-Assembly.md)
+[Monad是一种Context Sensitive的CodeGen - 用State Monad实现x86汇编](MonadicAssembly.pdf)
 
 [复杂的GUI](complexity_of_GUI.md)
 
@@ -26,8 +26,8 @@
 
 [MonadBaseControl是什么](MonadBaseControl-for-the-rest-of-us.md)
 
-[草稿 - 当我们讨论中文编程语言时, 我们在说什么?](CP_CPL.md)
+[草稿 - 当我们讨论中文编程语言时, 我们在说什么?](Draft/CP_CPL.md)
 
-[草稿 - 让人头痛的C语言](C_is_a_real_headache.md)
+[草稿 - 让人头痛的C语言](Draft/C_is_a_real_headache.md)
 
 [Prolog迷魂记](Lost_in_prolog.md)
