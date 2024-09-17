@@ -27,6 +27,8 @@ http://minisat.se/MiniSat.html
 
 另外这个也不错: https://codingnest.com/modern-sat-solvers-fast-neat-and-underused-part-3-of-n/
 
+On the Glucose SAT Solver这篇论文也提供了一些算法方面的新视角
+
 ## 例子：购物问题
 
 ## 理论部分

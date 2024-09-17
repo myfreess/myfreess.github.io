@@ -14,6 +14,8 @@
 
 [haskell的ReaderT设计模式](ReaderT.md)
 
+[haskell的HasIt设计模式](HasIt.md)
+
 [Trees That Grow - 基础手法](trees-that-grow.md)
 
 [Trees That Grow - 扩展](trees-that-grow-additive)
