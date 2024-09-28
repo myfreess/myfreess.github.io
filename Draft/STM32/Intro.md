@@ -1,1 +1,0 @@
-Internally, each microcontroller consists of the processor core, static RAM, flash memory, debugging interface, and various other peripherals. 
