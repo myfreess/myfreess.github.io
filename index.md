@@ -2,6 +2,8 @@
 
 [使用续延传递模拟GADT](PhantomType.md)
 
+[文本观察/双峰驼的消失与重现](camel_humps.md)
+
 [Monad是一种Context Sensitive的CodeGen - 用State Monad实现x86汇编](Monadic-Assembly.md)
 
 [复杂的GUI](complexity_of_GUI.md)
