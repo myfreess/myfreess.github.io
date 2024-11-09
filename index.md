@@ -10,7 +10,7 @@
 
 [旁观一场16进制风格技术面试](prerequisites-of-hexing.md)
 
-[haskell缺陷其一](BadPiecesOfHs-1.md)
+[haskell缺陷其一](BadPiecesOfHs1.md)
 
 [一点也不函数式的函数式语言编译器 - 论GHC的代码架构与历史遗留](Purely_Functional_GHC_critique.md)
 
