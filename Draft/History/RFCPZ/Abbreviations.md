@@ -1,0 +1,70 @@
+# ABBREVIATIONS 
+
+
+AS                           ASIAN SURVEY 
+
+BR                           BEIJING REVIEW 
+
+CC                           CENTRAL COMMITTEE 
+
+CNA                          CHINA NEWS ANALYSIS 
+
+CNS                          CHINA NEWS SUMMARY 
+
+CQ                           CHINA QUARTERLY 
+
+CCP                          CHINESE COMMUNIST PARTY 
+
+CYL                          COMMUNIST YOUTH LEAGUE 
+
+CS                           CURRENT SCENE 
+
+F&F                          FACTS & FEATURES 
+
+FEER                         FAR EASTERN ECONOMIC REVIEW 
+
+FB1S/CHI                     FOREIGN BROADCAST INFORMATION SERVICE. DAILY REPORT. CHINA 
+
+FBIS/CR/PSMA                 FOREIGN BROADCAST INFORMATION SERVICE. CHINA REPORT. POLITICAL, SOCIOLOGICAL AND MILITARY AFFAIRS 
+
+HMC                          HANGZHOU MUNICIPAL COMMITTEE 
+
+HMMCH                        HANGZHOU MUNICIPAL MILITIA COMMAND HEADQUARTERS 
+
+HMRC                         HANGZHOU MUNICIPAL REVOLUTIONARY COMMITTEE
+
+HMWC                         HANGZHOU MUNICIPAL WORKERS' CONGRESS 
+
+HZRB                         HANGZHOU R1BAO 
+
+l&S                          ISSUES & STUDIES 
+
+MAC                          MILITARY AFFAIRS COMMISSION 
+
+NPC                          NATIONAL PEOPLE'S CONGRESS 
+
+PR                           PEKING REVIEW 
+
+PLA                          PEOPLE'S LIBERATION ARMY 
+
+RMRB                         REN MIN RIB AO 
+
+SCMM                         UNITED STATES CONSULATE-GENERAL (HONG KONG). SELECTIONS FROM CHINA MAINLAND MAGAZINES 
+
+SCMP                         UNITED STATES CONSULATE-GENERAL  (HONG KONG). SURVEY OF CHINA MAINLAND PRESS 
+
+SWB/FE                       BBC. SUMMARY OF WORLD BROADCASTS. PART THREE. THE FAR EAST. 
+
+URS                          UNION RESEARCH INSTITUTE (HONG KONG). UNION RESEARCH SERVICE 
+
+ZPC                          ZHEJIANG PROVINCIAL COMMITTEE 
+
+ZPMD                         ZHEJIANG PROVINCIAL MILITARY DISTRICT 
+
+ZPRC                         ZHEJIANG PROVINCIAL REVOLUTIONARY COMMITTEE 
+
+ZJRB                         ZHEJIANG, RIBAO 
+
+ZPS                          ZHEJIANG PROVINCIAL SERVICE 
+
+ZPTUC                        ZHEJIANG PROVINCIAL TRADE UNION COUNCIL
